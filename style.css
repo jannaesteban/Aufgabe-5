@@ -1,7 +1,14 @@
 body{
     width: 50%;
     margin: 150px auto;
+    background-color:  rgba(225, 0, 255, 0.123);
 }
 .box{
     width: 100%;
+    background-color: seashell;
+    border: pink;
+}
+.row{
+    margin-top: 15px;
+    opacity: 70%;
 }
